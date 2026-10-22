@@ -1,0 +1,17 @@
+
+.box{
+    width: 600px;
+    height: 800px;
+    background-color: plum;
+    border: 2px solid black;
+    padding: 30px;
+    font-size: 22px;
+   
+}
+   
+            h1{
+                text-align: center;
+                text-decoration: underline;
+                margin-top: 0;
+            }
+            

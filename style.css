@@ -1,0 +1,138 @@
+
+
+            
+        .parent{
+            display: flex;
+        justify-content: center;
+        
+        }
+    .wrapper{
+        display: flex;
+        justify-content: center;   
+    }
+       .boxnoe{
+    width: 100px;
+    height: 100px;
+   background-color: gray;
+   font-size: 80px;
+   align-items: center;
+  
+}
+    
+.boxtwo{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+     font-size: 80px;
+   align-items: center;
+}
+    
+.boxthree{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+     font-size: 80px;
+   align-items: center;
+}
+    
+.boxfour{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+     font-size: 80px;
+   align-items: center;
+}
+
+.boxfive{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+     font-size: 80px;
+   align-items: center;
+}
+    
+.boxsix{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+     font-size: 80px;
+   align-items: center;
+}
+    
+.boxseven{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+     font-size: 80px;
+   align-items: center;
+}
+    
+.boxeight{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+     font-size: 80px;
+   align-items: center;
+}
+  
+    .boxeight{
+          width: 100px;
+          height: 100px;
+         background-color: purple;
+        font-size: 80px;
+         align-items: center;
+    }
+
+            
+.boxsix{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+     font-size: 80px;
+   align-items: center;
+}
+
+    
+.boxfive{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+     font-size: 80px;
+   align-items: center;
+}
+
+    
+.boxfour{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+     font-size: 80px;
+   align-items: center;
+}
+
+    
+    
+.boxthree{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+     font-size: 80px;
+   align-items: center;
+}
+    
+    
+.boxtwo{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    
+}
+    
+    
+       .boxnoe{
+    width: 100px;
+    height: 100px;
+   background-color: gray;
+   font-size: 80px;
+   align-items: center;
+}
